@@ -5,9 +5,5 @@ For now I will be work with your graphic interface.
 Let's go.
 
 Hello world and other stuff. +++
+Greeting from Local-------------
 
-Greeting from Local
-<<<<<<< HEAD
---------------------------------
-=======
->>>>>>> 770ac0331161dad3c49f5635f5108c79a316506b
