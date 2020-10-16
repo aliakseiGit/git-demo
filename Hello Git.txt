@@ -1,2 +1,5 @@
 Hello, Git.
 I'm here. Looking there how  you are working.
+
+For now I will be work with your graphic interface.
+Let's go.
