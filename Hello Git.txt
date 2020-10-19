@@ -1,14 +1,1 @@
 Hello, Git.
-I'm here. Looking there how  you are working.
-
-For now I will be work with your graphic interface.
-Let's go.
-
-Hello world and other stuff. +++
-Greeting from Local-------------
-
-This some info for feature branch -----
-++++++++++++++++++++++++++
-{}{}}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{{
-
-Another info to deature branch
