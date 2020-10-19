@@ -7,3 +7,6 @@ Let's go.
 Hello world and other stuff. +++
 Greeting from Local-------------
 
+This some info for feature branch -----
+++++++++++++++++++++++++++
+{}{}}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{{
